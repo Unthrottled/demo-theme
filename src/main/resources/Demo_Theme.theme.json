@@ -1,0 +1,11 @@
+{
+  "name": "Demo Theme",
+  "dark": false,
+  "author": "",
+  "editorScheme": "/Demo_Theme.xml",
+  "ui": {
+  },
+  "icons": {
+    "/toolwindows/toolWindowFavorites.svg": "/icons/toolwindows/toolWindowFavorites.svg"
+  }
+}

@@ -1,2 +1,21 @@
-<scheme name="Demo Theme" version="142" parent_scheme="Default">
+<scheme name="Demo Theme" parent_scheme="Darcula" version="142">
+  <attributes>
+    <option name="JS.LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="0000ff" />
+        <option name="BACKGROUND" value="282c34" />
+      </value>
+    </option>
+    <option name="TS.TYPE_GUARD">
+      <value>
+        <option name="BACKGROUND" value="00ff00"/>
+      </value>
+    </option>
+    <option name="TS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="ff0000" />
+        <option name="BACKGROUND" value="282c34" />
+      </value>
+    </option>
+  </attributes>
 </scheme>

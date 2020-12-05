@@ -1,6 +1,6 @@
 {
   "name": "Demo Theme",
-  "dark": false,
+  "dark": true,
   "author": "",
   "editorScheme": "/Demo_Theme.xml",
   "ui": {
